@@ -4,7 +4,7 @@
   <title><![CDATA[Rafe's Musings]]></title>
   <link href="http://blog.rafe.info/atom.xml" rel="self"/>
   <link href="http://blog.rafe.info/"/>
-  <updated>2014-12-22T00:07:38-08:00</updated>
+  <updated>2014-12-22T23:58:50-08:00</updated>
   <id>http://blog.rafe.info/</id>
   <author>
     <name><![CDATA[Rafe Hatfield]]></name>
@@ -14,16 +14,20 @@
 
   
   <entry>
-    <title type="html"><![CDATA[That's the Way]]></title>
+    
+    <title type="html"><![CDATA[That's the way]]></title>
     <link href="http://blog.rafe.info/2014/12/21/thats-the-way/"/>
+    
     <updated>2014-12-21T22:57:50-08:00</updated>
     <id>http://blog.rafe.info/2014/12/21/thats-the-way</id>
+    
     <content type="html"><![CDATA[<h1>That&rsquo;s the way, a-ha a-ha, we like it!</h1>
 
 <h2>Or so they tell me</h2>
 
 <p>This is the system testing mechanism.</p>
 ]]></content>
+    
   </entry>
   
 </feed>

@@ -1,10 +1,8 @@
-<p class="text-center">
-  <span class="copyright">
-  	Copyright &copy; {{ site.time | date: "%Y" }} by {{ site.author }}
-  </span>
-
-  <span class="credit">
-  	Powered by <a href="http://octopress.org" target="_blank">Octopress</a><br />
-  	<span><a href="http://github.com/annejohnson/octofound" target="_blank">Theme</a> by <a href="http://feathers.io" target="_blank">Anne Johnson</a></span>
+<p>
+  Copyright &copy; {{ site.time | date: "%Y" }} - {% if site.mnml_mailto %}<a href="mailto:{{ site.mnml_mailto }}">{{ site.author }}</a>{% else %} {{ site.author }} {% endif %}<br/>
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a> + <a href="https://github.com/ioveracker/mnml">mnml</a>.
+	  {% if site.mnml_host_name and site.mnml_host_url %}
+	  Hosted by <a href="{{ site.mnml_host_url }}">{{ site.mnml_host_name }}</a>. 
+	  {% endif %}
   </span>
 </p>

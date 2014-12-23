@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Personal | Rafe's Musings]]></title>
+  <title><![CDATA[Category: personal | Rafe's Musings]]></title>
   <link href="http://blog.rafe.info/blog/categories/personal/atom.xml" rel="self"/>
   <link href="http://blog.rafe.info/"/>
-  <updated>2014-12-22T00:07:38-08:00</updated>
+  <updated>2014-12-22T23:58:50-08:00</updated>
   <id>http://blog.rafe.info/</id>
   <author>
     <name><![CDATA[Rafe Hatfield]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[That's the Way]]></title>
+    <title type="html"><![CDATA[That's the way]]></title>
     <link href="http://blog.rafe.info/2014/12/21/thats-the-way/"/>
     <updated>2014-12-21T22:57:50-08:00</updated>
     <id>http://blog.rafe.info/2014/12/21/thats-the-way</id>
